@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS note (
+  id VARCHAR(10) NOT NULL,
+  description VARCHAR(100) NOT NULL
+);
